@@ -10,7 +10,7 @@ public class MergeArrays {
 
         System.out.print(" Nhập kích thước của mảng 2:");
         int size2 = scanner.nextInt();
-       
+
         int[] array1 = new int[size1];
         int[] array2 = new int[size2];
 
